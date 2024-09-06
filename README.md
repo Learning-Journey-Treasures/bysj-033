@@ -1,5 +1,5 @@
 # 基于SpringBoot的小说阅读下载网站,
-
+获取方式：[戳我查看](https://gitee.com/aven999/mall)💕
 # 1.介绍
 - 我的测试环境：IDEA2022，Mysql5.7
 - 技术栈：SpringBoot, Vue（后端管理web提供的是dist包），LayUI（门户）
